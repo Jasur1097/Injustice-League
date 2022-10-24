@@ -8,3 +8,8 @@ header{
 	background-color: #000000;
 	padding: 0px;
 }
+header img{
+	border-radius: 250px;
+	width:500px;
+	border: 30px solid;
+}
