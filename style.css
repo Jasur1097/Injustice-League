@@ -4,5 +4,7 @@ h1{
 	font-size: 100px;
 }
 header{
+	text-align: center;
 	background-color: #000000;
+	padding: 0px;
 }
