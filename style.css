@@ -1,16 +1,25 @@
 h1{
 	font-family: creepster;
 	color: #990507;
-	font-size: 100px;
+	font-size: 120px;
 }
 header{
 	text-align: center;
 	background-color: #000000;
 	padding: 0px;
 }
+body{
+	background-color: grey ;
+	max-width: 1500px;
+	margin: 0 auto;
+	padding: 0;
+}
 header img{
-	border-radius: 250px;
-	size:200px;
-
+	size:600px;
 	border: 30px solid;
+	padding: 0;
+}
+body img{
+  text-align: center;
+  padding-top: 0;
 }
